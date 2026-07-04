@@ -3,6 +3,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-*.md
+# *.md
 !README.md
-*.json
+# *.json

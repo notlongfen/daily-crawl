@@ -1,9 +1,12 @@
 name: Daily KB Sync
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
-    # 7:00 UTC + 7 hours = 14:00 Vietnam time
+    # Every 5 minutes, UTC. For testing only.
     - cron: "*/5 * * * *"
 
 permissions:
@@ -23,6 +26,13 @@ jobs:
     timeout-minutes: 30
 
     steps:
+      - name: Print trigger info
+        run: |
+          echo "event=${{ github.event_name }}"
+          echo "ref=${{ github.ref }}"
+          echo "sha=${{ github.sha }}"
+          date -u
+
       - name: Checkout
         uses: actions/checkout@v4
 
