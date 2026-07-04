@@ -3,7 +3,7 @@ name: Daily KB Sync
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
   schedule:
     # Every 5 minutes, UTC. For testing only.
