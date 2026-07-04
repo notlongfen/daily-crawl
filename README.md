@@ -24,8 +24,8 @@ First run creates a Gemini File Search Store and saves its resource name in `dat
 ## Run with Docker
 
 ```bash
-docker build -t daily-crawl .
-docker run --rm -e GEMINI_API_KEY="your-key" daily-crawl
+docker build -t kb_daily-crawl .
+docker run --rm -e GEMINI_API_KEY="your-key" kb_daily-crawl
 ```
 
 ## How it works
@@ -64,4 +64,6 @@ Ask this after the first successful upload:
 python ask_gemini.py "How do I add a YouTube video?"
 ```
 
-Take a screenshot of the answer showing cited `Article URL:` lines or Gemini file citations and place it in `screenshots/sample_answer.png`.
+Take a screenshot of the answer showing cited `Article URL:` lines or Gemini file citations and save it as [screenshots/sample_answer.png](screenshots/sample_answer.png).
+
+The workflow also uploads the latest run artifact from [logs/last_run.json](logs/last_run.json) in GitHub Actions so you can share a link to the daily job output.
