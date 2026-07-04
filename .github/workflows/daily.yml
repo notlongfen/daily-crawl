@@ -3,7 +3,8 @@ name: Daily KB Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 13 * * *"
+    # 7:00 UTC + 7 hours = 14:00 Vietnam time
+    - cron: "* 7 * * *"
 
 permissions:
   contents: write
@@ -13,10 +14,14 @@ env:
   SUPPORT_BASE_URL: "https://support.optisigns.com"
   HELP_CENTER_LOCALE: "en-us"
   GEMINI_FILE_SEARCH_STORE_DISPLAY_NAME: "daily-crawl-store"
+  MAX_TOKENS_PER_CHUNK: "512"
+  MAX_OVERLAP_TOKENS: "64"
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,6 +30,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: "pip"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -32,15 +38,28 @@ jobs:
       - name: Run scraper and Gemini uploader
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_FILE_SEARCH_STORE_NAME: ${{ secrets.GEMINI_FILE_SEARCH_STORE_NAME }}
         run: python main.py
 
+      - name: Show last run log
+        if: always()
+        run: |
+          echo "===== logs/last_run.json ====="
+          cat logs/last_run.json || true
+
       - name: Upload last run log
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: last-run-log
-          path: logs/last_run.json
+          path: |
+            logs/last_run.json
+            data/store.json
+            data/manifest.json
+          if-no-files-found: warn
 
       - name: Commit changed manifest, markdown, logs
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
