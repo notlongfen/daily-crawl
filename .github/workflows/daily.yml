@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # 7:00 UTC + 7 hours = 14:00 Vietnam time
-    - cron: "* 7 * * *"
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
