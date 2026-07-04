@@ -1,0 +1,6 @@
+requests==2.32.4
+beautifulsoup4==4.12.3
+markdownify==0.13.1
+python-slugify==8.0.4
+python-dotenv==1.0.1
+google-genai==1.49.0
