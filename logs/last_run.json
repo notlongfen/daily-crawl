@@ -1,5 +1,5 @@
 {
-  "added": 50,
+  "added": 0,
   "articles_seen": 50,
   "chunking": {
     "max_overlap_tokens": 64,
@@ -7,10 +7,10 @@
   },
   "deleted_old_documents": 0,
   "errors": [],
-  "estimated_chunks_embedded": 189,
-  "ran_at": "2026-07-04T10:37:42.244401+00:00",
-  "skipped": 0,
+  "estimated_chunks_embedded": 0,
+  "ran_at": "2026-07-04T11:08:45.124751+00:00",
+  "skipped": 50,
   "store_name": "fileSearchStores/dailycrawlrunnerstore-9fyaem2qvxh5",
   "updated": 0,
-  "uploaded_files": 50
+  "uploaded_files": 0
 }
