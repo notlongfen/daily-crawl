@@ -1,0 +1,452 @@
+{
+  "28598173096723": {
+    "document_name": null,
+    "hash": "26a728dba1c8c26d5be71ee37b823ea6b215ce14db235d051d24342aa9f6c034",
+    "last_uploaded_at": "2026-07-04T10:37:42.243724+00:00",
+    "markdown_path": "data/markdown/how-to-create-and-use-operational-schedules-hdmi-cec-rs-232-28598173096723.md",
+    "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
+    "updated_at": "2026-06-02T22:08:42Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232"
+  },
+  "29217646663187": {
+    "document_name": null,
+    "hash": "3e324f3cfca72f9130e038b959c746a42415da0719f8f3672730159f67b3a349",
+    "last_uploaded_at": "2026-07-04T10:37:34.949273+00:00",
+    "markdown_path": "data/markdown/how-to-set-up-dynamic-data-mapping-with-optisync-29217646663187.md",
+    "title": "How to Set Up Dynamic Data Mapping with OptiSync",
+    "updated_at": "2025-09-04T17:54:40Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync"
+  },
+  "29232460955539": {
+    "document_name": null,
+    "hash": "2f51d8341b9b08cee3b8f2e719b236f69fd511ae5381fa64060c908feedbca30",
+    "last_uploaded_at": "2026-07-04T10:37:27.341408+00:00",
+    "markdown_path": "data/markdown/how-to-create-an-attract-screen-for-your-kiosk-29232460955539.md",
+    "title": "How to Create an Attract Screen for Your Kiosk",
+    "updated_at": "2025-09-04T14:01:30Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk"
+  },
+  "29238381023123": {
+    "document_name": null,
+    "hash": "1b892974e00c4fad614077a518f8d9fd2cdefd1d2e36a367404e1a717650f411",
+    "last_uploaded_at": "2026-07-04T10:37:20.321784+00:00",
+    "markdown_path": "data/markdown/how-to-clear-cache-on-a-brightsign-player-29238381023123.md",
+    "title": "How to Clear Cache on a BrightSign Player",
+    "updated_at": "2025-08-28T19:03:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player"
+  },
+  "29465595849235": {
+    "document_name": null,
+    "hash": "92f3cef1c1ea144031567711a6fe2ae6e2840abe68bc79d0ab34201f4c2b7b41",
+    "last_uploaded_at": "2026-07-04T10:36:46.310228+00:00",
+    "markdown_path": "data/markdown/list-of-supported-cities-for-weather-wall-city-themes-29465595849235.md",
+    "title": "List of Supported Cities for Weather Wall City Themes",
+    "updated_at": "2026-04-08T13:41:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes"
+  },
+  "29792081890323": {
+    "document_name": null,
+    "hash": "ef99aad747b91bd88581d416ccfda5f598c0f28809191890c6e42781fb9df84a",
+    "last_uploaded_at": "2026-07-04T10:36:35.317036+00:00",
+    "markdown_path": "data/markdown/guide-for-creating-content-with-optisigns-29792081890323.md",
+    "title": "Guide for Creating Content with OptiSigns",
+    "updated_at": "2026-05-21T17:52:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns"
+  },
+  "30304278652563": {
+    "document_name": null,
+    "hash": "5381b82ef2f96e8ce27173188c69667c800b290e75588c93a5c6919145d1c647",
+    "last_uploaded_at": "2026-07-04T10:35:22.715579+00:00",
+    "markdown_path": "data/markdown/how-to-use-the-mobile-app-for-remote-control-30304278652563.md",
+    "title": "How to Use the Mobile App for Remote Control",
+    "updated_at": "2025-09-04T20:14:54Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control"
+  },
+  "30310366838803": {
+    "document_name": null,
+    "hash": "7196dc09aadc20a5b22256787ab4e951387b99f12ed5f53cb3d2606911eb9f01",
+    "last_uploaded_at": "2026-07-04T10:35:15.367598+00:00",
+    "markdown_path": "data/markdown/enabling-lock-down-mode-on-touch-screen-devices-30310366838803.md",
+    "title": "Enabling Lock Down Mode on Touch Screen Devices",
+    "updated_at": "2026-04-21T19:22:05Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices"
+  },
+  "31113088917907": {
+    "document_name": null,
+    "hash": "21880701abc5abac215f5b1a55f9a2bf80d4cda29c5b5fb47f15d86dadd8532f",
+    "last_uploaded_at": "2026-07-04T10:35:07.827230+00:00",
+    "markdown_path": "data/markdown/how-to-use-toast-api-data-with-optisigns-31113088917907.md",
+    "title": "How to use Toast API data with OptiSigns",
+    "updated_at": "2025-09-02T20:24:12Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns"
+  },
+  "31449657955347": {
+    "document_name": null,
+    "hash": "620006b913b92dde8b09490801ca44b9ff4f6901360ab0fb2cce11dbb0ba6688",
+    "last_uploaded_at": "2026-07-04T10:35:00.774049+00:00",
+    "markdown_path": "data/markdown/getting-started-with-touch-screen-kiosks-31449657955347.md",
+    "title": "Getting Started with Touch Screen Kiosks",
+    "updated_at": "2025-10-29T18:57:43Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks"
+  },
+  "31695220475283": {
+    "document_name": null,
+    "hash": "d8aeef3bdc85070593501a06a244bf835a0343adbaa3d0682d71842cae0bb3d3",
+    "last_uploaded_at": "2026-07-04T10:34:54.078852+00:00",
+    "markdown_path": "data/markdown/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices-31695220475283.md",
+    "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
+    "updated_at": "2025-08-29T17:04:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices"
+  },
+  "31860170199955": {
+    "document_name": null,
+    "hash": "5027b03873fd3a587d41900ce1709aa626d852dace369241715df496351efc39",
+    "last_uploaded_at": "2026-07-04T10:34:47.472073+00:00",
+    "markdown_path": "data/markdown/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync-31860170199955.md",
+    "title": "Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync",
+    "updated_at": "2025-09-04T20:31:25Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync"
+  },
+  "31960461758611": {
+    "document_name": null,
+    "hash": "91d1e8b4c3acfd6b44a8f510a8d1f33ea3e9708f59dbecb1365d5eebbc2522aa",
+    "last_uploaded_at": "2026-07-04T10:34:37.564937+00:00",
+    "markdown_path": "data/markdown/how-to-order-a-preconfigured-optisigns-android-player-device-31960461758611.md",
+    "title": "How to Order a Preconfigured OptiSigns Android Player Device",
+    "updated_at": "2026-06-11T17:48:29Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device"
+  },
+  "32839794222099": {
+    "document_name": null,
+    "hash": "3c1d7e7c345d1cd44b6b6d5400413958c50ec54c805030573549c7792123a797",
+    "last_uploaded_at": "2026-07-04T10:34:31.041649+00:00",
+    "markdown_path": "data/markdown/display-salesforce-dashboards-with-mfa-using-web-scripting-32839794222099.md",
+    "title": "Display Salesforce Dashboards with MFA using Web Scripting",
+    "updated_at": "2025-09-02T20:45:08Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting"
+  },
+  "32860569148819": {
+    "document_name": null,
+    "hash": "7ffdc2b2c04ab1b74e6acad1030ec96edcbdc21ca08dd51f9b2ed6a9d34169d5",
+    "last_uploaded_at": "2026-07-04T10:34:23.596009+00:00",
+    "markdown_path": "data/markdown/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns-32860569148819.md",
+    "title": "How to Set Up a Power BI Service Principal for Use in OptiSigns",
+    "updated_at": "2026-03-17T22:32:17Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns"
+  },
+  "33382537925267": {
+    "document_name": null,
+    "hash": "2540924b0d1e833a92cf2b19fcc024aa66953f1875c531831e29d00270f69fea",
+    "last_uploaded_at": "2026-07-04T10:34:16.786300+00:00",
+    "markdown_path": "data/markdown/making-a-video-wall-with-optisigns-video-wall-app-33382537925267.md",
+    "title": "Making a Video Wall with OptiSigns (Video Wall App)",
+    "updated_at": "2025-12-11T15:16:23Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App"
+  },
+  "33940834613139": {
+    "document_name": null,
+    "hash": "277a2d5d116cd96672171f945e3c74d51b3d5e22cd594acea772066167cdff28",
+    "last_uploaded_at": "2026-07-04T10:33:03.107827+00:00",
+    "markdown_path": "data/markdown/what-do-i-get-with-an-optisigns-free-plan-33940834613139.md",
+    "title": "What Do I Get With an OptiSigns Free Plan?",
+    "updated_at": "2026-03-27T20:38:29Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan"
+  },
+  "34379983350163": {
+    "document_name": null,
+    "hash": "bc8c951c397cd49aafe1aaaa6062b7d396e24588c77163b3b28c4257d1f36989",
+    "last_uploaded_at": "2026-07-04T10:31:37.312385+00:00",
+    "markdown_path": "data/markdown/accepted-payment-methods-34379983350163.md",
+    "title": "Accepted Payment Methods",
+    "updated_at": "2025-09-04T15:39:32Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods"
+  },
+  "35184720136595": {
+    "document_name": null,
+    "hash": "95c08987c79716f20cbbd4543afcf034f74132803713d72925ba39094176f712",
+    "last_uploaded_at": "2026-07-04T10:31:30.757598+00:00",
+    "markdown_path": "data/markdown/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens-35184720136595.md",
+    "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
+    "updated_at": "2025-09-04T16:54:34Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens"
+  },
+  "35749502945555": {
+    "document_name": null,
+    "hash": "4052e19fe756d86cc0435a19b89613a42f303182b74114bf8ba7927ce3ad6922",
+    "last_uploaded_at": "2026-07-04T10:31:23.127474+00:00",
+    "markdown_path": "data/markdown/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments-35749502945555.md",
+    "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
+    "updated_at": "2025-08-29T16:58:30Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments"
+  },
+  "36501302096915": {
+    "document_name": null,
+    "hash": "bf492701bb2d6040fd8c9c79a6fabeff495185f7a0f257a03d0ebcb2481e8395",
+    "last_uploaded_at": "2026-07-04T10:31:16.727456+00:00",
+    "markdown_path": "data/markdown/how-to-access-the-troubleshooting-page-of-the-optisigns-player-36501302096915.md",
+    "title": "How to access the Troubleshooting page of the OptiSigns Player",
+    "updated_at": "2025-09-02T20:08:24Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player"
+  },
+  "36911639377683": {
+    "document_name": null,
+    "hash": "18c73947a9b0c23d05d467807e7bf5320018b9e843da3bb4cc41cd713a28f256",
+    "last_uploaded_at": "2026-07-04T10:31:10.092472+00:00",
+    "markdown_path": "data/markdown/how-to-use-optisigns-with-microsoft-teams-rooms-36911639377683.md",
+    "title": "How to Use OptiSigns with Microsoft Teams Rooms",
+    "updated_at": "2025-09-04T18:42:32Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms"
+  },
+  "37966066335891": {
+    "document_name": null,
+    "hash": "9db7d53d385ccab45f85abb80f8af245f3cbfc3443554a3486bee26035cdfd7f",
+    "last_uploaded_at": "2026-07-04T10:31:03.702153+00:00",
+    "markdown_path": "data/markdown/getting-started-with-an-optisigns-free-trial-37966066335891.md",
+    "title": "Getting Started with an OptiSigns Free Trial",
+    "updated_at": "2025-09-04T18:44:24Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial"
+  },
+  "38062664690195": {
+    "document_name": null,
+    "hash": "2ada0ffd7cdf5f764f574e88ed00062a08a5ce3d06da74db6e6cc5ed94de999e",
+    "last_uploaded_at": "2026-07-04T10:30:56.978653+00:00",
+    "markdown_path": "data/markdown/tagging-in-optisigns-38062664690195.md",
+    "title": "Tagging in OptiSigns",
+    "updated_at": "2025-09-09T19:34:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns"
+  },
+  "39080869746067": {
+    "document_name": null,
+    "hash": "e85d3f8afd693d904030afff31eb5ea502dda551d6d6f6f43133725288a44bc7",
+    "last_uploaded_at": "2026-07-04T10:30:49.815998+00:00",
+    "markdown_path": "data/markdown/handle-oauth-authentication-using-api-gateway-pre-request-configuration-39080869746067.md",
+    "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
+    "updated_at": "2025-08-28T18:42:06Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration"
+  },
+  "39250660729747": {
+    "document_name": null,
+    "hash": "858b5579ea5cb9435750c9ca3eb7dc6b8350c3871d456c289f43e28dfeed1958",
+    "last_uploaded_at": "2026-07-04T10:30:43.269942+00:00",
+    "markdown_path": "data/markdown/how-to-use-the-tableau-app-39250660729747.md",
+    "title": "How to Use the Tableau App",
+    "updated_at": "2026-01-06T22:36:49Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App"
+  },
+  "39488874989587": {
+    "document_name": null,
+    "hash": "07a32f3bd1f1b23ba47ddf99e7f6b4ec0a37ad95653286c31a263987ea6ebee3",
+    "last_uploaded_at": "2026-07-04T10:30:36.466690+00:00",
+    "markdown_path": "data/markdown/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick-39488874989587.md",
+    "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
+    "updated_at": "2025-09-04T15:25:54Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick"
+  },
+  "40147900639891": {
+    "document_name": null,
+    "hash": "e327ca332839b6a7bdce86aeaeba67372a88898b14b7d775242a20117a2199ce",
+    "last_uploaded_at": "2026-07-04T10:29:10.878227+00:00",
+    "markdown_path": "data/markdown/optistick-troubleshooting-guide-40147900639891.md",
+    "title": "OptiStick Troubleshooting Guide",
+    "updated_at": "2026-06-26T13:52:36Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide"
+  },
+  "40212027797523": {
+    "document_name": null,
+    "hash": "f3285d2d939640c307c0656bbadebca28e18cc59737f3e771b97bfdf47475af2",
+    "last_uploaded_at": "2026-07-04T10:29:03.726536+00:00",
+    "markdown_path": "data/markdown/disk-encryption-40212027797523.md",
+    "title": "Disk Encryption",
+    "updated_at": "2025-09-04T16:19:23Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption"
+  },
+  "40671590645651": {
+    "document_name": null,
+    "hash": "0bf45f43c89f90133db4956c41481cb2ca48d96e2fbd1dc3c72782bdb5e74b8c",
+    "last_uploaded_at": "2026-07-04T10:27:37.961573+00:00",
+    "markdown_path": "data/markdown/how-to-play-licensed-background-music-on-digital-signs-with-optisound-40671590645651.md",
+    "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
+    "updated_at": "2026-04-08T22:33:37Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound"
+  },
+  "40736654972563": {
+    "document_name": null,
+    "hash": "714d78fd98c70176ca8244f79ab00047d7624a0d6d6af523ea9b37db8e1de8cb",
+    "last_uploaded_at": "2026-07-04T10:27:30.869644+00:00",
+    "markdown_path": "data/markdown/optisigns-pro-promax-player-troubleshooting-guide-40736654972563.md",
+    "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
+    "updated_at": "2026-01-13T21:20:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide"
+  },
+  "41432385864595": {
+    "document_name": null,
+    "hash": "062ee043ed264b764a4aacf3a7049a8fd4a18cfdc5f37ad519ee1a6721c57de9",
+    "last_uploaded_at": "2026-07-04T10:27:22.531366+00:00",
+    "markdown_path": "data/markdown/designer-2-0-new-features-41432385864595.md",
+    "title": "Designer 2.0 New Features",
+    "updated_at": "2026-05-12T14:17:09Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features"
+  },
+  "42087942047379": {
+    "document_name": null,
+    "hash": "290e90cc39f3a9cf84c1708fa3e88b1fbf507c5e33695c720b160d75328c76b0",
+    "last_uploaded_at": "2026-07-04T10:27:16.040094+00:00",
+    "markdown_path": "data/markdown/getting-started-with-designer-42087942047379.md",
+    "title": "Getting Started with Designer",
+    "updated_at": "2025-10-07T17:18:32Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer"
+  },
+  "43657735780627": {
+    "document_name": null,
+    "hash": "2da36c4be03c542983e717d69e7059f87fd8a85776b471d6b334dec942c8c7f3",
+    "last_uploaded_at": "2026-07-04T10:27:08.888071+00:00",
+    "markdown_path": "data/markdown/user-management-example-chain-restaurant-or-retail-store-with-multiple-locations-43657735780627.md",
+    "title": "User Management Example - Chain Restaurant or Retail Store with Multiple Locations",
+    "updated_at": "2025-08-28T19:28:55Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/43657735780627-User-Management-Example-Chain-Restaurant-or-Retail-Store-with-Multiple-Locations"
+  },
+  "44890229616403": {
+    "document_name": null,
+    "hash": "1c1da53f4c0b5f09e6365d221aef8be37cbdf0269339bdaaa171d85e25b626a9",
+    "last_uploaded_at": "2026-07-04T10:27:01.564230+00:00",
+    "markdown_path": "data/markdown/using-an-enterprise-network-802-1x-with-optisigns-44890229616403.md",
+    "title": "Using an Enterprise Network (802.1x) with OptiSigns",
+    "updated_at": "2026-05-20T18:11:11Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns"
+  },
+  "45619214182803": {
+    "document_name": null,
+    "hash": "58dd02f1dbc61778c2a71ae299ba8b236265bca8e02d40df37b7259c1603cc83",
+    "last_uploaded_at": "2026-07-04T10:26:21.787698+00:00",
+    "markdown_path": "data/markdown/how-to-set-up-an-outlook-calendar-app-with-shared-permissions-45619214182803.md",
+    "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
+    "updated_at": "2025-10-17T16:01:18Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions"
+  },
+  "47616485609491": {
+    "document_name": null,
+    "hash": "2e7e33ba796be738850dc132de2e57532e34c72ac7a5f2af67fa85af8039eb96",
+    "last_uploaded_at": "2026-07-04T10:26:10.651770+00:00",
+    "markdown_path": "data/markdown/how-to-use-the-optidev-app-47616485609491.md",
+    "title": "How to Use the OptiDev App",
+    "updated_at": "2026-02-11T23:03:49Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App"
+  },
+  "48241081473043": {
+    "document_name": null,
+    "hash": "42c6e763c4b2afb1fcd842355177d32d376e578157f8c4dd044d73e47bbe6ed4",
+    "last_uploaded_at": "2026-07-04T10:26:03.896628+00:00",
+    "markdown_path": "data/markdown/operational-schedule-troubleshooting-48241081473043.md",
+    "title": "Operational Schedule Troubleshooting",
+    "updated_at": "2026-04-20T21:26:17Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting"
+  },
+  "48626115821459": {
+    "document_name": null,
+    "hash": "e2452e09b3948625d8286ef86a9af39ce5927b8baca26aff93039ac05c90c6ad",
+    "last_uploaded_at": "2026-07-04T10:25:53.638667+00:00",
+    "markdown_path": "data/markdown/how-to-use-the-youtube-dashboard-app-48626115821459.md",
+    "title": "How to Use the YouTube Dashboard App",
+    "updated_at": "2026-02-02T15:32:55Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App"
+  },
+  "48656950622227": {
+    "document_name": null,
+    "hash": "a41bf0708237794d3d414708f79872f0a909a4fdd7892dd2a7f08494a506f227",
+    "last_uploaded_at": "2026-07-04T10:25:47.394956+00:00",
+    "markdown_path": "data/markdown/how-to-use-the-google-search-console-app-48656950622227.md",
+    "title": "How to Use the Google Search Console App",
+    "updated_at": "2026-02-02T17:56:42Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App"
+  },
+  "48751096814995": {
+    "document_name": null,
+    "hash": "a47a7a45ec123bd0ae15eb6b031e46a14d00e56bbc1d2aa26803efa2ba33f684",
+    "last_uploaded_at": "2026-07-04T10:25:39.972062+00:00",
+    "markdown_path": "data/markdown/how-to-use-the-google-ads-dashboard-app-48751096814995.md",
+    "title": "How to Use the Google Ads Dashboard App",
+    "updated_at": "2026-02-02T17:54:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/48751096814995-How-to-Use-the-Google-Ads-Dashboard-App"
+  },
+  "49039295567891": {
+    "document_name": null,
+    "hash": "09e7524eaafbe76d98e294addef3879da3b26401ae1ba0478bf1beb53c4d76f4",
+    "last_uploaded_at": "2026-07-04T10:25:32.993915+00:00",
+    "markdown_path": "data/markdown/chromeos-pwa-instructions-49039295567891.md",
+    "title": "ChromeOS PWA Instructions",
+    "updated_at": "2026-05-05T15:48:27Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions"
+  },
+  "51343184586643": {
+    "document_name": null,
+    "hash": "02181b7cae7356fbd27131860e84a0b25cc6cffde3327269d5a22a2b9454d7fc",
+    "last_uploaded_at": "2026-07-04T10:25:26.574403+00:00",
+    "markdown_path": "data/markdown/connect-cisco-webex-rooms-to-optisigns-digital-signage-51343184586643.md",
+    "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
+    "updated_at": "2026-07-01T16:55:46Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage"
+  },
+  "52069065128723": {
+    "document_name": null,
+    "hash": "0e1889981d1a4e9ff3625bf75b406c0773f17faeae827ac921df5b7342b2d326",
+    "last_uploaded_at": "2026-07-04T10:25:19.516616+00:00",
+    "markdown_path": "data/markdown/connect-zoom-rooms-to-optisigns-digital-signage-52069065128723.md",
+    "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
+    "updated_at": "2026-06-11T22:22:00Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage"
+  },
+  "52113036672403": {
+    "document_name": null,
+    "hash": "38567435cff0bf625901e3c6233bcc202e5847a283246e630c15da923ef31a0e",
+    "last_uploaded_at": "2026-07-04T10:25:12.077829+00:00",
+    "markdown_path": "data/markdown/room-integrations-turn-your-meeting-rooms-into-digital-signage-52113036672403.md",
+    "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
+    "updated_at": "2026-06-15T19:14:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage"
+  },
+  "52350277262483": {
+    "document_name": null,
+    "hash": "8d8345f9dbeb90e173595a0aacf71847e7bc07c15cbf46c9b76110e4770ef901",
+    "last_uploaded_at": "2026-07-04T10:25:05.383125+00:00",
+    "markdown_path": "data/markdown/connect-microsoft-teams-rooms-to-optisigns-digital-signage-52350277262483.md",
+    "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
+    "updated_at": "2026-06-24T18:39:16Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage"
+  },
+  "52412502456083": {
+    "document_name": null,
+    "hash": "7627ffc5ecdd275e6133502b9743bc65a91d176738aa753b56c7bb7eac286a4f",
+    "last_uploaded_at": "2026-07-04T10:24:53.388638+00:00",
+    "markdown_path": "data/markdown/connect-google-meet-hardware-to-optisigns-digital-signage-52412502456083.md",
+    "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
+    "updated_at": "2026-06-15T19:14:07Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage"
+  },
+  "52523606879251": {
+    "document_name": null,
+    "hash": "aba693426aacf51f1bce2c688eacd73de8e2975a9d23378877fb0a4080db2138",
+    "last_uploaded_at": "2026-07-04T10:23:45.495698+00:00",
+    "markdown_path": "data/markdown/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app-52523606879251.md",
+    "title": "OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App",
+    "updated_at": "2026-06-11T22:24:43Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App"
+  },
+  "53028011485715": {
+    "document_name": null,
+    "hash": "d31d200e3dd93feefc1db99ddde108f84fbbe907649a978f80e11cda1ac05092",
+    "last_uploaded_at": "2026-07-04T10:22:19.902222+00:00",
+    "markdown_path": "data/markdown/how-to-display-a-snowflake-dashboard-with-optisigns-53028011485715.md",
+    "title": "How to Display a Snowflake Dashboard with OptiSigns",
+    "updated_at": "2026-07-01T21:59:22Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns"
+  },
+  "53095698149011": {
+    "document_name": null,
+    "hash": "11e8c1177dab405dbdbe74791cb6177026b3c2f70ba6115f7ccc0393b2d5ed43",
+    "last_uploaded_at": "2026-07-04T10:22:10.683899+00:00",
+    "markdown_path": "data/markdown/using-the-japan-earthquake-app-53095698149011.md",
+    "title": "Using the Japan Earthquake App",
+    "updated_at": "2026-07-02T14:16:18Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
+  }
+}
