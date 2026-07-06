@@ -1,7 +1,7 @@
 ---
 title: Using the Japan Earthquake App
 article_id: 53095698149011
-updated_at: 2026-07-02T14:16:18Z
+updated_at: 2026-07-06T14:22:20Z
 source_url: https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
 ---
 
@@ -13,7 +13,7 @@ Article URL: https://support.optisigns.com/hc/en-us/articles/53095698149011-Usin
 - [Creating a Japan Earthquake App](#CreateanApp)
 - [Deploying a Japan Earthquake App](#Deploying)
 
-If you're in Japan, it can be helpful to be informed of earthquakes so you'll know to be prepared. Our new Japan Earthquake app pulls the latest data from the Japan Meteorological Agency (JMA) and gives you the latest information directly to your screens. It displays JMA\-issued information about earthquakes which have already occurred.
+If you're in Japan, it can be helpful to be informed of recent earthquakes. Our new Japan Earthquake app pulls the latest data from the Japan Meteorological Agency (JMA) and gives you the latest information directly to your screens. It displays JMA\-issued information about earthquakes which have already occurred.
 
 Here's how to set it up.
 
@@ -44,8 +44,8 @@ Find and click on **地震情報 / Japan Earthquake**.
 ![](https://support.optisigns.com/hc/article_attachments/53095698128787)
 
 - **Name \-** This is the name of your asset. It is for internal OptiSigns use and will not display on your screens.
-- **Regions** \- Choose which regions to show
-- **Minimum Intensity** \- Show the minimum intensity at which an earthquake will be reported.
+- **Regions** \- Choose which regions to show JMA earthquake information.
+- **Minimum Intensity** \- Show the minimum intensity at which the JMA earthquake information will be displayed.
 - **Language** \- Allows you to choose the languages you want to be displayed. Bilingual will be in English and Japanese.
 - **Layout** \- Lets you change your layout. Different options will be reflected on the Preview panel on the right of your screen.
 - **Display Options**

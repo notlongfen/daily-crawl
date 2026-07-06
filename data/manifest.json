@@ -442,11 +442,20 @@
   },
   "53095698149011": {
     "document_name": null,
-    "hash": "11e8c1177dab405dbdbe74791cb6177026b3c2f70ba6115f7ccc0393b2d5ed43",
-    "last_uploaded_at": "2026-07-04T10:22:10.683899+00:00",
+    "hash": "84256910366343f2ade68694905de391287d9de4442e7dfdb22c1f631833baa5",
+    "last_uploaded_at": "2026-07-06T16:44:44.973208+00:00",
     "markdown_path": "data/markdown/using-the-japan-earthquake-app-53095698149011.md",
     "title": "Using the Japan Earthquake App",
-    "updated_at": "2026-07-02T14:16:18Z",
+    "updated_at": "2026-07-06T14:22:20Z",
     "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
+  },
+  "53216900345875": {
+    "document_name": null,
+    "hash": "ee8d95d25c9ac838dfd478a44d640fb9dd783b7201635f04af82c23c1a77a022",
+    "last_uploaded_at": "2026-07-06T16:44:38.537588+00:00",
+    "markdown_path": "data/markdown/what-access-does-optisigns-have-to-my-account-and-devices-53216900345875.md",
+    "title": "What Access Does OptiSigns Have to My Account and Devices?",
+    "updated_at": "2026-07-06T15:29:04Z",
+    "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices"
   }
 }
