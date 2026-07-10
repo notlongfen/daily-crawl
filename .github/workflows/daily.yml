@@ -5,9 +5,9 @@ on:
     branches:
       - master
   workflow_dispatch:
-  schedule:
-    # Every 5 minutes, UTC. For testing only.
-    - cron: "*/5 * * * *"
+  # schedule:
+  # Every minute, UTC. For testing only.
+  # - cron: "* * * * *"
 
 permissions:
   contents: write
